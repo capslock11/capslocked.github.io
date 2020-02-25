@@ -87,6 +87,8 @@ nav{
     background: white;
     transition: 0.4s;
 }
+
+
 .link:hover::before{
     width: 100%;
 }
