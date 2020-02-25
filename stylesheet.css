@@ -177,7 +177,6 @@ section{
 
 
 footer {
-    margin: 0;
     padding: 0;
     background: white;
 
@@ -191,6 +190,21 @@ footer {
     width: 50%;
     padding: 20px;
 }
+
+.footer-icon
+ {
+     width: 50%;
+     padding: 20px;
+ }
+
+ .footer-copy {
+     text-align: center;
+     color:white;
+     background: grey;
+     padding: 20px;
+     margin: 40px 20px 0;
+     margin: 0;
+ }
 
 .footer-icon
  {
