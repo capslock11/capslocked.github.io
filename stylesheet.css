@@ -200,9 +200,8 @@ footer {
  }
 
  .footer-copy {
-     width: 100%;
      text-align: center;
-     color:white;
+     color: white;
      background: grey;
      padding: 20px;
      margin: 0;
