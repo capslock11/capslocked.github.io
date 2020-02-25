@@ -84,6 +84,34 @@ nav{
      
 }
 
+.link:hover::before{
+    width: 100%;
+}
+
+.btn-click {
+    background: rgb(123, 238, 30);
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.btn-click:hover{
+    background: yellowgreen;
+
+}
+
+.cta {
+    background: green;
+    height: 70px;
+    width: 60px;
+    padding: 5px;
+}
+
+.menu-cta {
+    color: white;
+    font-weight: bold;
+}
+
 .banner{
     display: flex;
     height: 60vh;
